@@ -33,16 +33,16 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ## General Preview
 #### Screenshots of the app
 
-![Screenshot 0](images/Launch_GADsLeaderBoard.png) 
+![Screenshot 0](images/Launch.jpg) 
 
 ##### Learners:
-![Screenshot 1](images/TopLearners_GADsLeaderBoard.png)
+![Screenshot 1](images/TopLearners.jpg)
 
 ##### Or Skills:
-![Screenshot 2](images/SkillIQ_GADsLeaderBoard.png)
+![Screenshot 2](images/SkillIQ.jpg)
 
 ##### Submit Project:
-![Screenshot 3](images/Submit_GADsLeaderBoard.png) 
+![Screenshot 3](images/Submit.jpg) 
 
 
 <hr>
