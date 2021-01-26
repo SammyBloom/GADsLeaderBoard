@@ -66,7 +66,7 @@ Google Africa scholarship practice test phase 2. Android application built with 
  
          `git clone https://github.com/SammyBloom/GADsLeaderBoard`
          
-**3. open Project in Android Studio
+**3. open Project in Android Studio**
 
 **4. Build Project**
 
@@ -115,5 +115,5 @@ For personal feedback or questions feel free to contact me via the mail address,
 
 #### Developer
 * e-mail: nwachiemi@gmail.com
-* Twitter: [@SCNBloom_](https://twitter.com/maina_irungu_ "maina_irungu_")
+* Twitter: [@SCNBloom_](https://twitter.com/SCNBloom "SCNBloom")
 
